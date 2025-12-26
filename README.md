@@ -8,7 +8,7 @@ The system performs high-speed Fast Fourier Transform (FFT) to convert time-doma
 
 ### Authors
 
-*  trhieuuit / Leader
+* trhieuuit / Leader
 * Ghuyv2412 / Member
 * huynhtoaiii / Member
 ---
@@ -25,15 +25,15 @@ The system performs high-speed Fast Fourier Transform (FFT) to convert time-doma
 
 ### Folders
 
-**firmware_stm32**: core implementation using CMSIS-DSP and HAL drivers.
+**Firmware_stm32**: core implementation using CMSIS-DSP and HAL drivers.
 
-* **audio_processing**: implementation of FFT logic, Hamming windowing, and DC offset removal.
-* **led_drivers**: WS2812 timing control via PWM+DMA to ensure flicker-free animation.
-* **dsp_utils**: frequency band splitting, log-scaling, and smoothing algorithms.
+* **Audio_processing**: implementation of FFT logic, Hamming windowing, and DC offset removal.
+* **Led_drivers**: WS2812 timing control via PWM+DMA to ensure flicker-free animation.
+* **Dsp_utils**: frequency band splitting, log-scaling, and smoothing algorithms.
 
-**hardware_design**: wiring schematics and pinout configuration.
+**Hardware_design**: wiring schematics and pinout configuration.
 
-* **pinout**: mapping for ADC1 (PA0), TIM3, and PE4 (K0 button).
+* **Pinout**: mapping for ADC1 (PA0), TIM3, and PE4 (K0 button).
 
 ---
 
