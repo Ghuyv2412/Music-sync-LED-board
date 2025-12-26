@@ -8,9 +8,9 @@ The system performs high-speed Fast Fourier Transform (FFT) to convert time-doma
 
 ### Authors
 
-* Ghuyv2412 [@YourUsername]
-* trhieuuit [@PartnerUsername]
-
+* Ghuyv2412 
+* trhieuuit
+* huynhtoaiii
 ---
 
 ### Hardware Components
